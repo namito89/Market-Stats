@@ -6,4 +6,3 @@ seaborn
 datetime
 openpyxl
 requests
-json
