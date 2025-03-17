@@ -5,3 +5,6 @@ plotly
 seaborn
 datetime
 openpyxl
+re
+requests
+json
