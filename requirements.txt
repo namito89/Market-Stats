@@ -5,3 +5,5 @@ plotly
 seaborn
 datetime
 openpyxl
+api_info
+get_fin_info
