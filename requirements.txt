@@ -1,10 +1,8 @@
 voila
 pandas
 numpy
-warnings
 plotly
 seaborn
 datetime
 openpyxl
 requests
-tqdm
