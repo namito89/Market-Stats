@@ -5,5 +5,3 @@ plotly
 seaborn
 datetime
 openpyxl
-git+https://github.com/namito89/Market-Stats.git#subdirectory=api_info
-git+https://github.com/namito89/Market-Stats.git#subdirectory=get_fin_info
