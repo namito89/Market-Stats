@@ -1,0 +1,9 @@
+voila
+pandas
+numpy
+plotly
+seaborn
+datetime
+openpyxl
+requests
+json
