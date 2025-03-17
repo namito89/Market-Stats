@@ -6,6 +6,3 @@ seaborn
 datetime
 openpyxl
 requests
-tqdm
-api_info
-get_fin_info
